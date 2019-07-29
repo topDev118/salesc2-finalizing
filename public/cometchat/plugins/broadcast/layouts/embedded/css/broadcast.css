@@ -1,0 +1,144 @@
+/*
+ * CometChat
+ * Copyright (c) 2016 Inscripts - support@cometchat.com | http://www.cometchat.com | http://www.inscripts.com
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, font, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	outline: 0;
+	font-weight: inherit;
+	font-style: inherit;
+	font-size: 100%;
+	font-family: inherit;
+	vertical-align: baseline;
+	font-family: <?php echo $layoutSettings['font_family'];?>;
+	font-size: <?php echo $layoutSettings['font_size_mid'];?>;
+}
+
+
+html, body {
+	background: <?php echo $layoutSettings['color_white'];?> !important;
+}
+
+.cometchat_wrapper {
+	width: 100%;
+	margin-top: 5px;
+}
+
+.container_title {
+	background-color: <?php echo $layoutSettings['secondary_color'];?>;
+	color: <?php echo $layoutSettings['text_color'];?>;
+	font-family: <?php echo $layoutSettings['font_family'];?>;
+	font-size: <?php echo $layoutSettings['font_size_small'];?>;
+	border-left: 1px solid <?php echo $layoutSettings['light_grey_color'];?>;
+	border-right: 1px solid <?php echo $layoutSettings['light_grey_color'];?>;
+	border-top: 1px solid <?php echo $layoutSettings['light_grey_color'];?>;
+	padding: 5px;
+	font-weight: bold;
+	padding-left: 10px;
+	padding-bottom: 6px;
+}
+
+.container_body {
+	border-left: 1px solid <?php echo $layoutSettings['light_grey_color'];?>;
+	border-bottom: 1px solid <?php echo $layoutSettings['light_grey_color'];?>;
+	border-right: 1px solid <?php echo $layoutSettings['light_grey_color'];?>;
+	background-color: <?php echo $layoutSettings['color_white'];?>;
+	color: <?php echo $layoutSettings['text_color'];?>;
+	font-family: <?php echo $layoutSettings['font_family'];?>;
+	font-size: <?php echo $layoutSettings['font_size_small'];?>;
+	padding: 10px 10px;
+	height: 130px;
+	overflow-x: hidden;
+	overflow-y: scroll;
+}
+
+.container_body.embed {
+	border: 0px;
+	padding: 10px;
+}
+
+.container_title.embed {
+	display: none;
+}
+
+.invite_1 {
+	cursor: pointer;
+	position: relative;
+	height: 30px;
+	float: left;
+	width: 159px;
+	border: 1px solid <?php echo $layoutSettings['light_grey_color'];?>;
+	padding: 3px;
+	margin: 4px;
+}
+
+.invite_2 {
+	float: left;
+}
+
+.invite_3 {
+	float: left;
+	padding-<?php echo $left;?>: 10px;
+        max-width: 100px;
+        white-space: nowrap;
+        text-overflow: ellipsis;
+        overflow: hidden;
+}
+
+.invite_4 {
+	position: absolute;
+	right: 4px;
+	top: 4px;
+}
+
+.invite_5 {
+	color: <?php echo $layoutSettings['text_color'];?>;
+}
+
+.invite_name{
+	text-overflow: ellipsis;
+	overflow: hidden;
+	width: 100px;
+	float: left;
+	white-space:nowrap;
+}
+
+.invitebutton {
+	background-color: <?php echo $layoutSettings['primary_color'];?>;
+	color: <?php echo $layoutSettings['color_white'];?>;
+	font-family: <?php echo $layoutSettings['font_family'];?>;
+	font-size: <?php echo $layoutSettings['font_size_mid'];?>;
+	cursor: pointer;
+	font-weight: bold;
+	padding: 8px;
+	border-radius: 25px;
+	max-width: 165px;
+	min-width: 135px;
+	white-space: nowrap;
+    	overflow: hidden;
+    	text-overflow: ellipsis;
+	border: 0px;
+}
+
+.invitebutton:disabled {
+ 	background: none;
+ 	background-color: #CCCCCC !important;
+ 	text-shadow: none;
+ 	color: #949494 !important;
+}
+
+.container_sub {
+	background-color: <?php echo $layoutSettings['color_white'];?>;
+	color: <?php echo $layoutSettings['text_color'];?>;
+	padding: 0px 5px;
+}

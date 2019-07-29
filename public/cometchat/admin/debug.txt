@@ -1,0 +1,9 @@
+Array
+(
+    [basedata] => null
+    [cometchat] => Array
+        (
+            [userid] => 0
+        )
+
+)

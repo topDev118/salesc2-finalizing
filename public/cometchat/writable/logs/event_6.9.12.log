@@ -1,0 +1,36 @@
+
+ Jun 21 16:00:08 : {"LATEST_VERSION":"7.1.2","api_response":""}
+ Jun 21 16:52:19 : {"LATEST_VERSION":"7.1.2","api_response":""}
+ Jun 21 16:52:37 : {"LATEST_VERSION":"7.1.2","api_response":""}
+ Jun 21 17:38:07 : {"LATEST_VERSION":"7.1.2","api_response":""}
+ Jun 21 17:38:11 : {"apikey":"4f2f848247e0f964d1a53ec5564442c6"}
+ Jun 21 17:38:29 : {"disableContactsTab":"0","hideOffline":"0","DISPLAY_ALL_USERS":"1","displayOfflineNotification":"1","displayBusyNotification":"1","displayOnlineNotification":"1","thumbnailDisplayNumber":"40","searchDisplayNumber":"10"}
+ Jun 21 18:15:01 : {"plugins":["smilies","clearconversation","filetransfer"]}
+ Jun 21 18:15:12 : {"plugins":["smilies","clearconversation","filetransfer","handwrite"]}
+ Jun 21 18:15:14 : {"crplugins":["style","filetransfer","smilies","handwrite"]}
+ Jun 21 18:15:21 : {"plugins":["smilies","clearconversation","filetransfer","handwrite","report"]}
+ Jun 21 18:20:21 : {"trayicon":{"announcements":["announcements","Announcements","modules\/announcements\/index.php","_popup","280","310","","1",""],"home":["home","Home","\/","","","","","",""],"scrolltotop":["scrolltotop","Scroll To Top","javascript:jqcc.cometchat.scrollToTop();","","","","","",""],"share":["share","Share This Page","modules\/share\/index.php","_popup","350","50","","1",""]}}
+ Jun 21 18:26:17 : {"hideBar":"0","autoPopupChatbox":"0","messageBeep":"1","beepOnAllMessages":"1","notificationTime":"5000","announcementTime":"15000","armyTime":"0","startOffline":"0","desktopNotifications":"1","windowTitleNotify":"1","floodControl":"0","windowFavicon":"0","blockpluginmode":"0","lastseen":"0","gatrackerid":""}
+ Jun 22 04:35:18 : {"disableForMobileDevices":"0","enableMobileTab":"1","mobileNewWindow":"1","mobiletabConfirmOnAllMessages":"2"}
+ Jun 22 04:38:24 : {"color":"color6"}
+ Jun 22 04:38:27 : {"color":"color91561178298"}
+ Jun 22 04:38:30 : {"color":"color91561178237"}
+ Jun 24 19:40:01 : {"LATEST_VERSION":"7.1.2","api_response":""}
+ Jun 24 19:40:45 : {"color":"color1"}
+ Jun 24 19:40:47 : {"color":"color91561405224"}
+ Jul 4 14:28:19 : {"LATEST_VERSION":"7.1.2","api_response":""}
+ Jul 4 14:30:30 : {"ADMIN_USER":"administrator@salesc2.com","old_PASS":"cometchat","ADMIN_PASS":"e9826593f1881063617e044fc72e94e9fca598f3","Confirm_PASS":"salesc22019"}
+ Jul 4 14:31:48 : {"plugins":["smilies","clearconversation","chathistory"]}
+ Jul 15 17:12:52 : {"LATEST_VERSION":"7.1.2","api_response":""}
+ Jul 15 17:13:05 : {"plugins":["smilies","clearconversation","chathistory","filetransfer"]}
+ Jul 15 17:13:28 : {"plugins":["smilies","clearconversation","chathistory","filetransfer","handwrite"]}
+ Jul 15 17:13:33 : {"plugins":["smilies","clearconversation","chathistory","filetransfer","handwrite","block"]}
+ Jul 15 17:13:45 : {"isDelete":"1"}
+ Jul 15 17:15:48 : {"disableGroupTab":"0","allowUsers":"1","allowGuests":"1","allowDelete":"1","allowAvatar":"1","crguestsMode":"1","showChatroomUsers":"1","messageBeep":"1","newMessageIndicator":"1","showUsername":"1","showGroupsOnlineUsers":"0","chatroomTimeout":"604800","lastMessages":"10"}
+ Jul 15 17:19:28 : {"trayicon":{"announcements":["announcements","Announcements","modules\/announcements\/index.php","_popup","280","310","","1",""],"home":["home","Home","\/","","","","","",""],"scrolltotop":["scrolltotop","Scroll To Top","javascript:jqcc.cometchat.scrollToTop();","","","","","",""],"share":["share","Share This Page","modules\/share\/index.php","_popup","350","50","","1",""]}}
+ Jul 15 17:19:41 : {"trayicon":{"announcements":["announcements","Announcements","modules\/announcements\/index.php","_popup","280","310","","1",""],"home":["home","Home","\/","","","","","",""],"scrolltotop":["scrolltotop","Scroll To Top","javascript:jqcc.cometchat.scrollToTop();","","","","","",""]}}
+ Jul 15 17:20:41 : {"usebots":0}
+ Jul 16 15:23:04 : {"LATEST_VERSION":"7.1.2","api_response":""}
+ Jul 21 12:20:29 : {"LATEST_VERSION":"7.1.2","api_response":""}
+ Jul 26 16:57:35 : {"LATEST_VERSION":"7.1.2","api_response":""}
+ Jul 28 10:39:51 : {"LATEST_VERSION":"7.1.2","api_response":""}
